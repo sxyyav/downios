@@ -33,7 +33,7 @@
 				<key>subtitle</key>
 				<string>App Subtitle</string>
 				<key>title</key>
-				<string>手心影院</string>
+				<string>手心影院 - 若打开提示未受信任，请前往设置 → 通用 → 设备管理(描述文件) ，信任此APP即可！</string>
 			</dict>
 		</dict>
 	</array>
